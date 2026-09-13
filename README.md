@@ -93,7 +93,7 @@ Only TCP port 80 was identified as externally accessible during the scan.
 
 ### Screenshot
 
-screenshots/nmp.png
+![nmp.png](./screenshots/nmp.png)
 
 ---
 
