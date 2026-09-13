@@ -117,7 +117,7 @@ whatweb http://10.113.131.159:80
 
 ### Screenshot
 
-screenshots/whatweb.png
+![whatweb.png](./screenshots/whatweb.png)
 
 ---
 
@@ -160,7 +160,7 @@ Several application components were therefore accessible or discoverable.
 
 ### Screenshot
 
-screenshots/gobuster.png
+![gobuster.png](./screenshots/gobuster.png)
 
 ---
 
@@ -224,8 +224,8 @@ HR credentials
 
 ### Screenshot
 
-screenshots/email.png
-screenshots/SSFR.png
+![email.png](./screenshots/email.png)
+![SSFR.png](./screenshots/SSFR.png)
 
 ---
 
@@ -242,7 +242,7 @@ This demonstrated that the disclosed credentials were valid and usable.
 The Local File Read vulnerability therefore resulted in direct credential compromise and authenticated application access.
 
 ### Screenshot
-screenshots/login.png
+![login.png](./screenshots/login.png)
 
 ---
 
@@ -266,8 +266,8 @@ This generated an SQL Injection hypothesis.
 
 ### Screenshot
 
-screenshots/login.png
----
+![login.png](./screenshots/login.png)
+
 
 # 11. SQL Injection Validation
 
@@ -309,7 +309,7 @@ recruit_db
 ### Screenshot
 
 
-screenshots/sql1.png
+![sql1.png](./screenshots/sql1.png)
 
 # 12. Database Enumeration
 
@@ -335,8 +335,8 @@ The `users` table was identified as particularly sensitive because it potentiall
 
 ### Screenshot
 
-screenshots/sql2.png
----
+![sql2.png](./screenshots/sql2.png)
+
 
 # 13. Administrator Credential Disclosure
 
@@ -369,8 +369,8 @@ The SQL Injection allowed extraction of authentication data from the application
 
 ### Screenshot
 
-screenshots/sql3.png
----
+![sql3.png](./screenshots/sql3.png)
+
 
 # 14. Administrator Access
 
@@ -400,8 +400,8 @@ Admin Dashboard
 
 ### Screenshot
 
-screenshots/admin.png
----
+![admin.png](./screenshots/admin.png)
+
 
 # 15. Complete Attack Chain
 
